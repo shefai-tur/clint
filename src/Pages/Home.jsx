@@ -1,5 +1,5 @@
 import React from 'react'
-import Sidbar from '../Components/Home/sidbar'
+import Sidbar from '@/Components/Home/sidbar'
 import { Outlet } from 'react-router-dom'
 
 const Home = () => {
